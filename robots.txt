@@ -1,0 +1,25 @@
+# genero.mapeo.social: todo el sitio es público y está pensado para ser encontrado y citado.
+# Búsqueda tradicional: todos los rastreadores permitidos.
+User-agent: *
+Allow: /
+
+# Asistentes y buscadores de IA que buscan y citan páginas (permitidos).
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+Allow: /
+
+# Rastreadores que recopilan contenido para entrenar modelos (permitidos hoy).
+# Si algún día quieren impedir SOLO el entrenamiento, cambien Allow por Disallow en este grupo;
+# seguirán apareciendo en las búsquedas y las citas de los grupos anteriores.
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://genero.mapeo.social/sitemap.xml

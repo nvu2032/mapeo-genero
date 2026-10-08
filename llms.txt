@@ -1,0 +1,16 @@
+# Mapa de género · mapeo.social
+
+> Explorador público de 163 organizaciones con agendas de género en 12 regiones del Perú: mapa, filtros por región, tema y población, y fichas con datos de contacto. Datos al 2024. Producido por Chakakuna. Licencia CC BY-NC 4.0 (citar, sin fines comerciales, reutilizable con atribución).
+
+## Qué contiene
+- Panorama por región, tema y población atendida
+- Fichas de organización (tema, población, ámbito, contacto público)
+- Aviso de corrección y retiro de datos
+
+## Enlaces
+- [Mapa de género](https://genero.mapeo.social/): el explorador
+- [mapeo.social](https://mapeo.social/): el servicio de mapeo del que este es el primer caso
+- [Chakakuna](https://chakakuna.com): autoría y contacto
+
+## Cómo citar
+Chakakuna. Mapeo de organizaciones con agendas de género en 12 regiones del Perú. genero.mapeo.social. Datos al 2024. CC BY-NC 4.0.
